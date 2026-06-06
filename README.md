@@ -1,4 +1,4 @@
-# CreatorGAINS - Africa's Creator & Business Platform
+# CreatorGAINS
 
 ## Vision
 CreatorGAINS is an all-in-one platform that connects creators, businesses, manufacturers, and investors across Africa. We empower content creators to monetize their work, connect with brands for sponsorships, track royalties, and manage their finances—all in one place.
